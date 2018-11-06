@@ -1,0 +1,2 @@
+# AutoSizeTest
+使用AndroidAutoSize屏幕适配演示
